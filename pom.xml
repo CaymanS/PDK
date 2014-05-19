@@ -20,7 +20,7 @@
 		<module>advanced</module>
 		<module>applications</module>
 	</modules>
-
+	<!-- -->
 	<ciManagement>
 		<system>Bamboo</system>
 		<url>https://build.springsource.org/browse/INTSAMPLES</url>
